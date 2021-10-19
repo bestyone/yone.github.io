@@ -1,1 +1,3 @@
+baseurl: ""
+url: "https://yone.github.io"
 theme: jekyll-theme-time-machine
